@@ -69,7 +69,7 @@ More at http://nadarei.co/mina/deploying.html
 
 ## Tail log from server
 
-> mina log
+	mina log
 
 ## More tasks
 
