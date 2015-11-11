@@ -5,7 +5,7 @@ using [Mina] (http://nadarei.co/mina).
 
 # Getting Start
 
-## Instalation
+## Installation
 	
 	gem install mina-laravel
 
